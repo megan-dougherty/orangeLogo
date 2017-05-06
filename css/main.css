@@ -1,0 +1,111 @@
+
+html {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 auto;
+	width: 81%;
+}
+
+.col-2 {
+	background-color: #fb7f01;
+	float: left;
+	width: 50%;
+	height: 60px;
+	margin-top: 0;
+}
+
+.logo {
+	padding-top: 15px;
+	padding-left: 35px;
+	cursor: pointer;
+}
+
+.menu li {
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 100;
+	margin-right: 20px;
+	cursor: pointer;
+}
+
+.menu {
+	padding-top: 5px; 
+}
+
+.search input {
+	float: right;
+	border: none;
+	background-color: #f0eeef;
+	height: 30px;
+	margin-top: 1px;
+	margin-right: 10px;
+}
+
+.orange img {
+	height: 265px;
+	float: left;
+}
+.content {
+	background-color: #f7f7f7;
+	padding-bottom: 65px;
+}
+
+.content h1 {
+	color: #fb7f03;
+	font-weight: 100;
+	padding-top: 120px;
+	padding-right: 20px;
+}
+
+.content h1 > span.bold {
+	font-weight: 500;
+}
+
+.content h1 > span.trade {
+	font-size: 10px;
+	bottom: 15px;
+	position: relative;
+}
+
+.content h1 > span.turquoise {
+	color: #7bc9ca;
+	font-weight: 500;
+}
+
+button.orange {
+	background-color: #fb7f03;
+	padding: 8px 25px;
+	border: none;
+	color: #ffffff;
+	font-size: 10px;
+	cursor: pointer;
+}
+
+button.blue {
+	background-color: #7bc9ca;
+	border: none;
+	padding: 8px 18px;
+	font-size: 10px;
+	color: #ffffff;
+	margin-left: 15px;
+	cursor: pointer;
+}
+
+footer {
+	background-color: #7bc9ca;
+	height: 70px;
+	margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
